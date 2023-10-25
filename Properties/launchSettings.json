@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SanitizeNetPE": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
